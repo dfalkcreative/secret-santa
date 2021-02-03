@@ -1,0 +1,7 @@
+{
+    "name": "dfalk/secret_santa",
+    "description": "A secret santa matcher for families with a bunch of kids.",
+    "require": {
+        "twilio/sdk": "^6.13"
+    }
+}
